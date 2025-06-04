@@ -14,7 +14,7 @@
 
 **Welcome to the landing page for the NHS England Data Visualisation Community of Practice repository.**
 
-Visit our [website](https://nhsengland.github.io/data-viz-community-of-practice-sw/) for more information about Data Visualisation or look in the docs folder!
+Visit our [website](https://hannahmitchell35.github.io/data-viz-community-of-practice-SW/) for more information about Data Visualisation or look in the docs folder!
 
 Please see our [contributing instructions][1] if you'd like to suggest a change, or develop our resources.
 
