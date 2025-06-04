@@ -1,4 +1,4 @@
-# [Data Visualisation Community of Practice for the South West](https://nhsengland.github.io/data-viz-community-of-practice/)
+# [Data Visualisation Community of Practice for the South West](https://nhsengland.github.io/data-viz-community-of-practice-SW/)
 ![CI](https://github.com/nhsengland/data-viz-community-of-practice/actions/workflows/pages-build-deployment.yml/badge.svg "CI badge indicating passing or failing status")
 [![Release Version](https://img.shields.io/github/v/release/nhsengland/data-viz-community-of-practice "Release version")](https://github.com/nhsengland/data-viz-community-of-practice/releases)
 [![MkDocs Material](https://img.shields.io/badge/style-MkDocs%20Material-darkblue "Markdown Style: MkDocs")](https://squidfunk.github.io/mkdocs-material/reference/)
