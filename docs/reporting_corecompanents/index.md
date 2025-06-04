@@ -4,16 +4,23 @@ No matter what application is used there should be the following core components
 ## Cover Page
 
 What is the product for?
+
 Can this product be shared outside of NHSE?
+
 What data sources are used?
+
 When was the product refreshed?
+
 Key contact information?
+
 Version?
+
 Link to guidance?
 
 ## Main product
 
 Overview page/tab: to highlight key observations form the data
+
 Focused pages/tabs
 
 ## Metric Descriptions
